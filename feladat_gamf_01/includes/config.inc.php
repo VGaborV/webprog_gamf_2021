@@ -1,22 +1,22 @@
 <?php
 $ablakcim = array(
-    'cim' => 'Mini honlap Kft.1',
+    'cim' => 'Rex Kutyaotthon alapítvány',
 );
 
 $fejlec = array(
-    'kepforras' => 'logo.png',
-    'kepalt' => 'logo',
-	'cim' => 'Mini honlap',
-	'motto' => ''
+    'kepforras' => 'rex.png',
+    'kepalt' => 'REX',
+	'cim' => 'Rex Kutyaotthon alapítvány',
+	'motto' => '100%-ot adnak, de csak 1%-ot kérnek'
 );
 
 $lablec = array(
-    'copyright' => 'Copyright '.date("Y").'.',
-    'ceg' => 'Mini honlap Kft.'
+    'copyright' => ''.date("Y").' REX KUTYAOTTHON ALAPÍTVÁNY – MINDEN JOG FENNTARTVA.',
 );
 
 $oldalak = array(
 	'/' => array('fajl' => 'cimlap', 'szoveg' => 'Címlap', 'menun' => array(1,1)),
+    'orokbefogadas' => array('fajl' => 'orokbefogadas', 'szoveg' => 'Örökbefogadás', 'menun' => array(1,1)),
 	'bemutatkozas' => array('fajl' => 'bemutatkozas', 'szoveg' => 'Bemutatkozás', 'menun' => array(1,1)),
 	'kapcsolat' => array('fajl' => 'kapcsolat', 'szoveg' => 'Kapcsolat', 'menun' => array(1,1)),
 	'cikkek' => array('fajl' => 'cikkek', 'szoveg' => 'Cikkek', 'menun' => array(1,1)),

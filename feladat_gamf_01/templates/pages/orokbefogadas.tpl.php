@@ -1,0 +1,16 @@
+
+
+
+<h2>Örökbefogadás feltételei</h2>
+
+
+<p><strong>A COVID-19 koronavírus járványügyi veszélyhelyzet elrendelése miatt, az örökbefogadás lehetőségei is változnak. Továbbra is van lehetőség örökbefogadásra Alapítványunknál, azonban a kialakult helyzet miatt arra kérjük az örökbefogadni szándékozókat, hogy még alaposabban fontolják meg, valóban belefér e az életükben egy kutya vagy egy cica a jelenlegi helyzetben. Meg tudják e oldani ellátását akkor is ha szigorúbb intézkedésekre (kijárási tilalom) kerül sor vagy ha bármilyen okból, karantén alá kerülnek.</strong></p>
+<p>Örökbefogadási szándékát jelenleg e-mail-en tudja jelezni munkatársunknak a rexiroda@rex.hu e-mail címen. Kérjük, mielőtt jelentkezne, tekintse meg gazdára váró állatainkat. Amennyiben talál a fotó és leírás alapján olyan állatot, aki felkeltette érdeklődését, kérjük nyomtatás nélkül töltse ki és jutassa el hozzánk az örökbefogadási kérdőívet.</p>
+
+<p>A kérdőív beérkezése után mi fogjuk Önöket keresni, ez a jelentkezések és a feldolgozandó kérdőívek számától függően az 1-2 naptól akár az egy hétig is eltarthatnak, türelmüket és megértésüket köszönjük! Az egyeztetett időpontra kérjük CSAK családtagokkal érkezzen!! Barátokkal, szomszédokkal nem lehet jönni! Csak az állattal majd egy háztartásban élők jöhetnek az előre megbeszélt látogatásra! Ebben az esetben is egyszerre maximum 2-3 családtag. Hogy minden családtagnak legyen lehetősége megismerkedni a kiválasztott állattal, a második látogatás alkalmával tudnak azon családtagok jönni, akik az elsőnél nem voltak jelen. Kérjük az állatszigetre belépve viseljenek maszkot és lehetőség szerint kesztyűt is! A recepció területén EGYSZERRE MAXIMUM 2 FŐ tartózkodhat! Munkatársaink, állataink és saját maguk védelmében is kérjük önöket a fenti szabályok betartására! Bármilyen egyéb kérdése lenne, keressen minket a 06-1-230-4080-as telefonszámon vagy a rexiroda@rex.hu e-mail címen. Megértését köszönjük!</p>
+<h3>AMIT JAVASLUNK MEGFONTOLNI ÉS ÁTGONDOLNI AZ ÖRÖKBEFOGADÁSI SZÁNDÉKKAL VALÓ FELKERESÉS ELŐTT:</h3>
+<p>Kérjük, a végleges döntés előtt mindenképpen alaposan gondolja át, biztosan készen áll e egy új társ érkezésére! Ugyan lehet, hogy a jelenlegi helyzet miatt több a szabadidő, azonban számos, a kutya számára fontos dolgok, korlátozottan elérhetőek. Nem lehet kutyaiskolába vinni és a fajtársaival való találkozás is nagyon korlátozott, ami azonban fontos része a megfelelő szocializációnak. A szeparációs szorongás könnyebben alakulhat ki, ha most minden időnket újdonsült kedvencükkel töltjük, majd hirtelen vissza kell térnünk a napi kerékvágásba, munka, iskola, egyéb elfoglaltságok. Már most fel kell tudni készülni erre az időszakra is. Amennyiben a fenti dolgokkal kapcsolatban kérdései merültek fel, forduljon hozzánk bizalommal. A kutyával való ismerkedésre és örökbefogadásra keddtől vasárnapig 10:00-13:00 között van lehetőség az állatszigeten (1046 Budapest, Óceánárok u. 33.) előre egyeztetett időpontban.</p>
+<p>Az állat befogadását követően az állattartás minden teendője, felelőssége és költsége egyedül az örökbefogadót terheli. Célszerű végig gondolni, hogy tudja-e vállalni ezeket a kötelezettségeket. Bárhonnan is kerüljön hozzánk az új négylábú családtag, a legfontosabb, hogy az életkörülményeinkhez legjobban alkalmazkodó, életmódunkhoz leginkább illő társat válasszuk!</p>
+
+
+
