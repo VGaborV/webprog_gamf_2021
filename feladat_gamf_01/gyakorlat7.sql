@@ -27,3 +27,21 @@ INSERT INTO `felhasznalok` (`id`,`csaladi_nev`,`uto_nev`,`bejelentkezes`,`jelszo
  (10,'Családi_10','Utónév_10','Login10',sha1('login10')),
  (11,'Családi_11','Utónév_11','Login11',sha1('login11')),
  (12,'Családi_12','Utónév_12','Login12',sha1('login12'));
+
+
+
+DROP TABLE IF EXISTS `kapcsolat`;
+CREATE TABLE IF NOT EXISTS `kapcsolat` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nev` varchar(128) NOT NULL,
+  `email` varchar(128) NOT NULL,
+  `targy` varchar(128) NOT NULL,
+  `message` varchar(2048) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+
+INSERT INTO `kapcsolat` (`id`, `nev`, `email`, `targy`, `message`) VALUES
+(4, 'asdfasdf', 'vasdfs@aasdsdfasdf.sadf', 'sfsd', 'fasf'),
+(3, 'sadfasdf', 'asdfasdfv@asdfasd.asdf', 'safsadf', 'asdf'),
+(5, 'asdfsadf', 'sadfsadf@asdfasdf.sdf', 'sadfasdf', 'sadfsdf\r\nfdssadfasdfsadf\r\nsadfasfs');
+COMMIT;
